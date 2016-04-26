@@ -1,0 +1,33 @@
+{
+  "name": "html-element-list",
+  "version": "1.0.0",
+  "description": "List and description of HTML tags",
+  "author": "Tyler Peterson <tylerjpeterson@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tylerjpeterson/html-element-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerjpeterson/html-element-list"
+  },
+  "homepage": "https://github.com/tylerjpeterson/html-element-list",
+  "contributors": [
+    "Tyler Peterson <tylerjpeterson@gmail.com>"
+  ],
+  "keywords": [
+    "html",
+    "tags",
+    "elements"
+  ],
+  "engines": {
+    "node": ">=0.10.3"
+  },
+  "license": "MIT"
+}
